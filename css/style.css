@@ -16,19 +16,17 @@
     font-family: 'Space Grotesk', sans-serif;
     color: #051931;
 }
-header{
-    border-bottom: 1px solid black;
-
-}
 /* fine header */
 
 /* inizio main */
 
 /* primo div */
 .menu{
-    margin-top: 50px;
-    border: 1px solid black;
-    padding: 15px 0px 10px 50px;
+    padding: 5px 0px 10px 50px;
+    margin: 0px 50px;
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
     
 }
 .button{
@@ -48,7 +46,19 @@ header{
 }
 /* fine primo div */
 
+.conteiner{
+    background-color: #f6f8f9;
+    padding: 30px 50px;
+}
+
+
 /* inizio secondo div */
+.lista{
+    background-color: white;
+    margin: 0px 50px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
 .list{
     margin: 30px;
     line-height: 40px;
@@ -97,3 +107,4 @@ header{
     background-color: #b0c926;
     border: 1px solid #b0c926;
 }
+/* fine main */
