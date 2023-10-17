@@ -16,6 +16,29 @@
     font-family: 'Space Grotesk', sans-serif;
     color: #051931;
 }
+    
 /* fine header */
 
 /* inizio main */
+
+/* primo div */
+.menu{
+    margin-top: 50px;   
+    padding: 15px 0px 10px 50px;
+    
+}
+.button{
+    border-radius: 5px;
+    padding: 6px;
+    font-size: 11px;    
+}
+#task-button{
+    background-color: #47adf1;
+    color: white;
+    border: 1px solid #47adf1;
+}
+#section-button{
+    background-color: white;
+    color: #d2d6da;
+    border: 1px solid #d2d6da;
+}
